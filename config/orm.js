@@ -89,10 +89,3 @@ var orm = {
 };
 
 module.exports = orm;
-
-
-// selectAll();
-// insertOne();
-// updateOne();
-
-// module.exports
