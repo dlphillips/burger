@@ -1,39 +1,53 @@
 body {
-	background-color: #ffbf00;
-	font-family: 'Cherry Cream Soda', cursive;
+    background-color: #ecbf36;
+    font-family: 'Cherry Cream Soda', cursive;
 }
 
 li {
-  padding: 5px;
-  margin: 5px;
-  background: #fff;
-  font-size: 14px;
-  font-weight: bold;
-  border-color: #000;
-  border-style: solid;
-  border-width: 1px;
+    padding: 5px;
+    margin: 5px;
+    background: #fff;
+    font-size: 14px;
+    font-weight: bold;
+    border-color: #000;
+    border-style: solid;
+    border-width: 1px;
+    line-height: 24px;
 }
 
-ul {
-  list-style-type: none;
+ul,
+li {
+    list-style-type: none;
+    list-style-position: inside;
+    margin: 20;
+    padding: 0;
+}
+
+button {
+    font-size: 12px;
+    height: 24px;
+    vertical-align: middle;
 }
 
 .label {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 .create-update-form {
-  padding: 5px;
-  margin: 5px;
-/*  background: aqua;*/
+    padding: 5px;
+    margin: 5px;
+    /*  background: aqua;*/
 }
 
 .form-group {
-  margin-bottom: 5px;
+    margin-bottom: 5px;
 }
 
-h1, h2, h3, #addBurger {
-	text-align: center;
+h1,
+h2,
+h3,
+#addBurger {
+    text-align: center;
 }
 
 img {
@@ -41,4 +55,23 @@ img {
     margin: 0 auto;
     border: 2px solid;
     border-radius: 25px;
+}
+
+.col-md-6,
+#addBurger {
+    background-color: #36ecbd;
+    border: 2px solid;
+    border-radius: 25px;
+    margin-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 10px;
+}
+
+#UserDisplayForm label {
+    display: block;
+}
+
+#UserDisplayForm div {
+    display: inline-block;
 }
