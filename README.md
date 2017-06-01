@@ -55,5 +55,5 @@ Have fun!
 
 ## Acknowledgments
 
-* @darinboesch & the TA's Chris Carter & Dave Jan
+* [@darinboesch](https://github.com/darinboesch) & the TA's Chris Carter & Dave Jan
 
