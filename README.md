@@ -1,6 +1,6 @@
 # Eat-Da-Burger
 
-This project is homework for the UNCC Coding Boot Camp. The goal was to learn the concepts of separation of concerns (Model, View, Controller) through the use of Node.js, Express, MySQL, Handlebars and a custom ORM.  
+This project was homework for the UNCC Coding Boot Camp. The goal was to learn the concept of separation of concerns (MVC - Model, View, Controller) through the use of Node.js, Express, MySQL, Handlebars and a custom ORM. 
 
 ## Getting Started
 
@@ -14,8 +14,6 @@ Both of these will need to be installed and running:
 * MySQL 
 
 ### Installing
-
-A step by step series of examples that tell you have to get a development env running
 
 To load all required NPM packages, in your terminal window, navigate to the new folder and run  
 
@@ -46,19 +44,16 @@ Have fun!
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Node.js](https://nodejs.org/en/)
+* [MySQL](https://www.mysql.com/pache.org/)
+* [Handlebars](http://handlebarsjs.com/)
+* [Express](https://expressjs.com/)
 
 ## Authors
 
 * **Dan Phillips** - [dlphilips](https://github.com/dlphillips/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-* @darinboesch & the TA's Chris & Dave 
+* @darinboesch & the TA's Chris Carter & Dave Jan
 
