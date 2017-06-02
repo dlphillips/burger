@@ -51,7 +51,7 @@ Have fun!
 
 ## Authors
 
-* **Dan Phillips** - [dlphilips](https://github.com/dlphillips/)
+* **Dan Phillips** - [dlphillips](https://github.com/dlphillips/)
 
 ## Acknowledgments
 
